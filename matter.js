@@ -41,7 +41,7 @@
 
 var Body = {};
 
-module.exports = Body;
+module.exports = Body; 
 
 var Vertices = _dereq_('../geometry/Vertices');
 var Vector = _dereq_('../geometry/Vector');
